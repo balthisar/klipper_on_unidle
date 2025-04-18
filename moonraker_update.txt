@@ -1,0 +1,5 @@
+[update_manager on_unidle]
+type: git_repo
+path: ~/klipper_on_unidle
+origin: https://github.com/balthisar/klipper_on_unidle.git
+is_system_service: False
