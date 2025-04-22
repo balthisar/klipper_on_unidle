@@ -65,9 +65,9 @@ patch ~/klipper/klippy/extras/display/menu.py ~/klipper_on_unidle/menu.py.patch
 
 ## Configuration
 
-### [on_idle]
+### [on_unidle]
 
-Configuration of the ON_IDLE Klippy extra.
+Configuration of the ON_UNIDLE Klippy extra.
 
 ```
 [on_unidle]
